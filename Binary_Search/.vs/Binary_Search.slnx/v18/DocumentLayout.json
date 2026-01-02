@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Grokking_Algorithms_Examples-Exercises\\Binary_Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDB079E-03BB-45E3-A9BB-A151AB8EA195}|Binary_Search.vcxproj|E:\\Grokking_Algorithms_Examples-Exercises\\Binary_Search\\Binary_Search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDDB079E-03BB-45E3-A9BB-A151AB8EA195}|Binary_Search.vcxproj|solutionrelative:Binary_Search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary_Search.cpp",
+              "DocumentMoniker": "E:\\Grokking_Algorithms_Examples-Exercises\\Binary_Search\\Binary_Search.cpp",
+              "RelativeDocumentMoniker": "Binary_Search.cpp",
+              "ToolTip": "E:\\Grokking_Algorithms_Examples-Exercises\\Binary_Search\\Binary_Search.cpp",
+              "RelativeToolTip": "Binary_Search.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAA1wDMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T17:09:43.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
