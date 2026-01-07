@@ -22,7 +22,7 @@ void selectionSort(int arr[], int n) {
 }
 int main() {
 	int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
-	int n = sizeof(arr);
+	int n = sizeof(arr) / sizeof(arr[0]);// get the size of the array using sizeof operator: calculate the number of bytes required to store the array.
 	selectionSort(arr, n);
 	//print the sorted array.
 	for (int i = 0; i < n; i++) {
