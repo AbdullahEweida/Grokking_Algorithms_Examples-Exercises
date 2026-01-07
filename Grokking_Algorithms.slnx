@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Binary_Search/Binary_Search.vcxproj" Id="b3d3d517-919d-45d0-843a-0d399d2cc69f" />
+  <Project Path="Recursion/Recursion.vcxproj" Id="9c6cc092-b7dc-42b8-b0a6-ce465f35ce2b" />
   <Project Path="Selection_Sort/Selection_Sort.vcxproj" Id="eebc07bb-863d-40f0-a8b7-c7c9a7f5b6b6" />
 </Solution>

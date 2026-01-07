@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Grokking_Algorithms_Examples-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6CC092-B7DC-42B8-B0A6-CE465F35CE2B}|Recursion\\Recursion.vcxproj|E:\\Grokking_Algorithms_Examples-Exercises\\Recursion\\Recursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C6CC092-B7DC-42B8-B0A6-CE465F35CE2B}|Recursion\\Recursion.vcxproj|solutionrelative:Recursion\\Recursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recursion.cpp",
+              "DocumentMoniker": "E:\\Grokking_Algorithms_Examples-Exercises\\Recursion\\Recursion.cpp",
+              "RelativeDocumentMoniker": "Recursion\\Recursion.cpp",
+              "ToolTip": "E:\\Grokking_Algorithms_Examples-Exercises\\Recursion\\Recursion.cpp",
+              "RelativeToolTip": "Recursion\\Recursion.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-07T20:34:52.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
