@@ -27,15 +27,15 @@ Selection Sort: sort an array from smallest to largest.
 ### Algorithm
 Recursion: when function call itself.
 - The recursion has two parts:
--- 1- base case: he base case is when the function doesn’t call itself again … so it doesn’t go into an infinite loop.
--- 2- he recursive case is when the function calls itself.
+    1. **The base case**: is when the function doesn’t call itself again … so it doesn’t go into an infinite loop.
+    2. **The recursive case** is when the function calls itself.
 ### Data Structure
-- Stack: pile of objects placed on top of each other.
-- Call Stack: memory structure holding details of active function calls.
-- operation in the stack is three operations:
--- 1- push: adding the element into the top of the stack.
--- 2- pop: deleting the element from the top of the stack.
--- 3- peek: Demonstrate the top element in the pile.
+- **Stack**: pile of objects placed on top of each other.
+- **Call Stack**: memory structure holding details of active function calls.
+- **operation** in the stack is three operations:
+    1. **Push:** adding the element into the top of the stack.
+    2. **Pop:** deleting the element from the top of the stack.
+    3. **Peek:** Demonstrate the top element in the pile.
 ### Notes
 - 1- using recursion is dangerous for memory because the all info of the functions are stored in the memory
 - 2- the error of the recursion is (stack overloading) this means the stack is overflowing and can't call any function again
