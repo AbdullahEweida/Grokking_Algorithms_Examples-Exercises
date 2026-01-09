@@ -54,6 +54,7 @@ Recursion: when function call itself.
     - O(n^2) in the worst-case
     - O(n log n) in the best-case(average case)
 3. **Merge sort vs quicksort**
+
 | Feature | Merge Sort | Quick Sort |
 | :--- | :--- | :--- |
 | **Average Time Complexity** | $O(n \log n)$ | $O(n \log n)$ |
@@ -62,7 +63,7 @@ Recursion: when function call itself.
 | **Stability** | **Stable** | **Unstable** |
 | **Sorting Method** | Out-of-place | In-place |
 | **Preferred for...** | Linked Lists / External Sorting | Arrays / General Purpose |
-3. **
+
 ### Notes
 1. Functional programming: don’t have loops, so you have to use recursion to write functions.
 2. The link between the Quicksort and Divide & conquer: Quicksort is implemented using the divide & conquer approach.
