@@ -22,7 +22,7 @@ Linked list: A linked list consists of nodes with some sort of data, and a point
 ### Algorithm
 Selection Sort: sort an array from smallest to largest.
 - Algorithm: search for the smallest element in the data structure and add it in the new array then delete this element from array and repeat this process n (size of the array).
-- Time complexity: O(n^2).
+- Time complexity: $O(n^2)$.
 ## Chapter 3:
 ### Algorithm
 Recursion: when function call itself.
@@ -51,8 +51,8 @@ Recursion: when function call itself.
         2. Now find the elements smaller than the pivot and the elements larger
             than the pivot. this is called partitioning.
         3. Call quicksort recursively the two sub-arrays
-    - O(n^2) in the worst-case
-    - O(n log n) in the best-case(average case)
+    - $O(n^2)$ in the worst-case
+    - $O(n \log n)$ in the best-case(average case)
 3. **Merge sort vs quicksort**
 
 | Feature | Merge Sort | Quick Sort |
