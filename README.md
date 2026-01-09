@@ -1,5 +1,5 @@
 # Grokking_Algorithms_Examples-Exercises
-##Summary for Grokking Algorithms And Solves Exercise and also contain Examples from the book.
+Summary for Grokking Algorithms And Solves Exercise and also contain Examples from the book.
 ## Chapter 1:
 Binary Search: search the index of the element in a sorted array.
 - Algorithm: Divide the array into two parts and check the middle element of the array and compare it with the target
@@ -37,6 +37,33 @@ Recursion: when function call itself.
     2. **Pop:** deleting the element from the top of the stack.
     3. **Peek:** Demonstrate the top element in the pile.
 ### Notes
-- 1- using recursion is dangerous for memory because the all info of the functions are stored in the memory
-- 2- the error of the recursion is (stack overloading) this means the stack is overflowing and can't call any function again
-- 3- The link between stack and recursion is that recursion is implemented using the call stack.
+1. using recursion is dangerous for memory because the all info of the functions are stored in the memory
+2. the error of the recursion is (stack overloading) this means the stack is overflowing and can't call any function again
+3. The link between stack and recursion is that recursion is implemented using the call stack.
+## Chapter 4:
+### Algorithm:
+1. **Divide & Conquer Algorithms** are recursive algorithms.
+    to solve it, there are two steps:
+        1. Figure out the base case. his should be the simplest possible case.
+        2. Divide or decrease your problem until it becomes the base case.
+2. **Quicksort** Remember, you’re using D&C. So you want to break down this array until you’re at the base case. Here’s how quicksort works. 
+        1. Pick an element from the array. his element is called the pivot.
+        2. Now find the elements smaller than the pivot and the elements larger
+            than the pivot. this is called partitioning.
+        3. Call quicksort recursively the two sub-arrays
+    - O(n^2) in the worst-case
+    - O(n log n) in the best-case(average case)
+3. **Merge sort vs quicksort**
+| Feature | Merge Sort | Quick Sort |
+| :--- | :--- | :--- |
+| **Average Time Complexity** | $O(n \log n)$ | $O(n \log n)$ |
+| **Worst Time Complexity** | $O(n \log n)$ | $O(n^2)$ |
+| **Space Complexity** | $O(n)$ (External) | $O(\log n)$ (In-place) |
+| **Stability** | **Stable** | **Unstable** |
+| **Sorting Method** | Out-of-place | In-place |
+| **Preferred for...** | Linked Lists / External Sorting | Arrays / General Purpose |
+3. **
+### Notes
+1. Functional programming: don’t have loops, so you have to use recursion to write functions.
+2. The link between the Quicksort and Divide & conquer: Quicksort is implemented using the divide & conquer approach.
+3. Quicksort is unique because its speed depends on the pivot you choose.
