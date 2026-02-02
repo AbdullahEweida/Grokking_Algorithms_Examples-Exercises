@@ -124,6 +124,7 @@ like *stack*, you can't access random elements in the queue.
 This algorithm runs on graphs. it can help answer two types of questions
     1. Is there path from node *A* to node *B*?
     2. What is the shortest path from node *A* to node *B*?
+
 **Implementation**
 1. create a queue *Q* (FIFO), hash map to keep track of visited nodes *M*
 2. add source vertex to *Q* and mark it visited in *M*
