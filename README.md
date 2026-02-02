@@ -121,7 +121,7 @@ like *stack*, you can't access random elements in the queue.
 
 ### Algorithms
 #### Breadth-First Search (BFS)
-This algorithm runs on graphs. it can help answer two types of questions
+- This algorithm runs on graphs. it can help answer two types of questions
     1. Is there path from node *A* to node *B*?
     2. What is the shortest path from node *A* to node *B*?
 
