@@ -3,6 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Advanced BFS/Advanced BFS.vcxproj" Id="0169bd2e-10c5-4bbf-824e-df0494fb1073" />
+  <Project Path="BFS/BFS.vcxproj" Id="9de68944-000f-42d9-9196-6abc44d621b8" />
   <Project Path="Binary_Search/Binary_Search.vcxproj" Id="b3d3d517-919d-45d0-843a-0d399d2cc69f" />
   <Project Path="Divid-and-Conquer/Divid-and-Conquer.vcxproj" Id="43a8d4f4-1af0-42a6-afef-ce736fd178a2" />
   <Project Path="Quicksort/Quicksort.vcxproj" Id="3cc2f713-c0a8-4ce9-a6e1-95615fa23b9c" />
