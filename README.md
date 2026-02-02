@@ -116,8 +116,8 @@ like *stack*, you can't access random elements in the queue.
     1. enqueue(): add to the end of the queue.
     2. dequeue(): delete first element in the queue.
     <p aling = "center">
-<img src = "/images/Queue.jpeg" title = "Queue representation">
-</p>
+    <img src = "/images/Queue.jpeg" title = "Queue representation">
+    </p>
 
 ### Algorithms
 #### Breadth-First Search (BFS)
