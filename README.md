@@ -102,7 +102,7 @@ A graph models a set of connection and made up of nodes and edges.
 - **Node**: can be directly connected to many other nodes and may be *city, person*, and those nodes called its *neighbors*.
 - **Edge**: is the line connect between two nodes.
 <p aling = "center">
-<img src = "/images/Graph.png" title = "graph components" width = "50">
+<img src = "/images/Graph.png" title = "graph components" width = "250px">
 </p>
 
 **Implementation**
