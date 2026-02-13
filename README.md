@@ -44,12 +44,15 @@ Recursion: when function call itself.
 ### Algorithm
 1. **Divide & Conquer Algorithms** are recursive algorithms.
     to solve it, there are two steps:
+        
         1. Figure out the base case. his should be the simplest possible case.
         2. Divide or decrease your problem until it becomes the base case.
 2. **Quicksort** Remember, you’re using D&C. So you want to break down this array until you’re at the base case. Here’s how quicksort works. 
+        
         1. Pick an element from the array. his element is called the pivot.
         2. Now find the elements smaller than the pivot and the elements larger
             than the pivot. this is called partitioning.
+        
         3. Call quicksort recursively the two sub-arrays
     - $O(n^2)$ in the worst-case
     - $O(n \log n)$ in the best-case(average case)
